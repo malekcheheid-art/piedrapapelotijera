@@ -1,0 +1,10 @@
+# Binarios compilados
+*.exe
+*.out
+
+# Visual Studio Code
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
