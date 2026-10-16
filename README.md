@@ -1,6 +1,6 @@
 # Piedra, Papel o Tijera - Persistencia de Datos
 
-Proyecto de la materia Laboratorio de Programacion (LPR), 5to ano, Actividad 7.
+Proyecto de la materia Laboratorio de Programacion (LPR), 5to año, Actividad 7.
 
 ## Datos generales
 - Institucion: E.E.S.T. N° 1 "Eduardo Ader" - Vicente Lopez
